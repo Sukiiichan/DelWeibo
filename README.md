@@ -1,8 +1,8 @@
 # DelWeibo
 批量删除微博
 
-## 使用方法
-1. 将 st 参数的值替换，将 UID 替换为自己的微博数字 id    
+## 使用方法：
+1. 将 st 参数的值替换，将 UID 替换为自己的微博数字 id    
 2. 在浏览器中登陆微博，将 cookie 替换为当前 cookie
 3. 在 python 3.x 环境下运行 delweibo.py
 
