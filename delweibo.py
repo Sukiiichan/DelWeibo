@@ -1,6 +1,8 @@
 import requests
 from _thread import start_new_thread
 import re
+# from bs4 import BeautifulSoup
+# import lxml
 
 REGEX = r'<div class="c" id="M_([a-zA-Z0-9]{9})">'
 
